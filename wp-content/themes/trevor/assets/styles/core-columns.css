@@ -1,0 +1,11 @@
+/* Column
+--------------------------------------------- */
+.is-style-column-box-shadow {
+    box-shadow: 0px 8px 40px -20px rgba(21, 14, 41, 0.12);
+    transition: .4s ease;
+    border-radius: 16px;
+}
+
+.is-style-column-box-shadow:hover {
+    box-shadow: 0px 12px 60px -20px rgba(21, 14, 41, 0.16);
+}
